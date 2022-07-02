@@ -1,2 +1,2 @@
-# Java
-Projects from Java and Java 2
+# java
+various simple java programs from class
